@@ -11,7 +11,7 @@
 
 ### 🤔 我正在做的事
 
-互联网服务端程序开发者，目前日常工作与研究的技术主要包括：rust、PHP、Linux、Kubernetes 。对 AI应用、Android、前端、WebAssembly 也感兴趣！
+互联网后端，日常工作与研究：rust、PHP、Linux、Kubernetes、AI、Android、前端、WebAssembly ！
 
 ### 😄 与我联系
 
