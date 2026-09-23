@@ -2,7 +2,7 @@
 
 ---
 
-https://github-stats-extended.vercel.app/api/top-langs?username=geekdex&layout=donut&langs_count=6&theme=vue-dark
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=geekdex&layout=donut&langs_count=6&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=geekdex&layout=donut&langs_count=6&theme=vue-dark)
 
 ---
 
