@@ -1,19 +1,18 @@
 # Hi, I'm Pan 👋
 
-Backend developer and software engineer focused on building reliable systems and exploring modern technologies.
+Backend developer focused on building web applications and backend services.
 
-### What I'm Working On
+Outside of work, I enjoy exploring different areas of software development and building small projects and tools.
 
-I work on backend systems and spend my time exploring:
+### Interests
 
-* 🦀 **Rust** — Systems programming, APIs, and backend infrastructure
-* 🐘 **PHP** — Backend services and web applications
-* 🐧 **Linux** — Systems, networking, and infrastructure
-* ☸️ **Kubernetes** — Containers, orchestration, and cloud-native systems
-* 🤖 **AI** — AI-powered applications and automation
-* 📱 **Android** — Mobile development and system-level tooling
-* 🌐 **Frontend** — Vue, TypeScript, and modern web development
-* ⚡ **WebAssembly** — Portable and high-performance applications
+* **Backend:** PHP · Go · Python · Rust · MySQL · Redis
+* **Systems & Infrastructure:** Linux · Docker · Kubernetes · Networking
+* **Tools & Projects:** Rust utilities · Developer tools · Network tools
+* **AI & Mobile:** AI applications · Android · Automation
+* **Web:** Vue · TypeScript · WebAssembly
+
+I'm particularly interested in **Linux, networking, self-hosting, and personal infrastructure** — from home networks and proxies to NAS and private cloud setups.
 
 ### GitHub Stats
 
@@ -21,12 +20,12 @@ I work on backend systems and spend my time exploring:
 
 ### Connect
 
-* 📺 Bilibili: https://space.bilibili.com/172353353
-* 💬 WeChat Official Account: **极客开发者**
+* Bilibili: https://space.bilibili.com/172353353
+* WeChat Official Account: **极客开发者**
 
-### Development Environment
+### Environment
 
 [![Debian](https://img.shields.io/badge/Debian-0D1117?style=flat-square\&logo=debian\&logoColor=A81D33)](https://www.debian.org/)
 [![macOS](https://img.shields.io/badge/macOS-0D1117?style=flat-square\&logo=apple\&logoColor=white)](https://www.apple.com/macos/)
 
-> Linux is my primary development environment.
+**Current Primary OS:** Debian Linux + KDE Plasma
