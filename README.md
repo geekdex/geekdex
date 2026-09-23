@@ -1,37 +1,32 @@
-### 👋 嘿 你好
+# Hi, I'm Pan 👋
 
----
+Backend developer and software engineer focused on building reliable systems and exploring modern technologies.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=geekdex&layout=donut&langs_count=6&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=geekdex&layout=donut&langs_count=6&theme=vue-dark)
+### What I'm Working On
 
----
+I work on backend systems and spend my time exploring:
 
+* 🦀 **Rust** — Systems programming, APIs, and backend infrastructure
+* 🐘 **PHP** — Backend services and web applications
+* 🐧 **Linux** — Systems, networking, and infrastructure
+* ☸️ **Kubernetes** — Containers, orchestration, and cloud-native systems
+* 🤖 **AI** — AI-powered applications and automation
+* 📱 **Android** — Mobile development and system-level tooling
+* 🌐 **Frontend** — Vue, TypeScript, and modern web development
+* ⚡ **WebAssembly** — Portable and high-performance applications
 
-### 🤔 我正在做的事
+### GitHub Stats
 
-互联网后端，日常工作与研究：rust、PHP、Linux、Kubernetes、AI、Android、前端、WebAssembly ！
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=geekdex\&layout=donut\&langs_count=6\&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=geekdex&layout=donut&langs_count=6&theme=vue-dark)
 
-### 😄 与我联系
+### Connect
 
-- 👯 Bilibili: <https://space.bilibili.com/172353353>
-- 💬 微信公众号: **极客开发者**
+* 📺 Bilibili: https://space.bilibili.com/172353353
+* 💬 WeChat Official Account: **极客开发者**
 
-### 💻 工作环境
+### Development Environment
 
-[![Deepin](https://img.shields.io/badge/Deepin-blue?style=flat-square&logo=deepin)](https://www.deepin.org/index/zh)<br>
-[![macOS](https://img.shields.io/badge/macOS-black?style=flat-square&logo=apple)](https://www.apple.com.cn/macos)<br>
+[![Debian](https://img.shields.io/badge/Debian-0D1117?style=flat-square\&logo=debian\&logoColor=A81D33)](https://www.debian.org/)
+[![macOS](https://img.shields.io/badge/macOS-0D1117?style=flat-square\&logo=apple\&logoColor=white)](https://www.apple.com/macos/)
 
-<!--
-**kotlindev/kotlindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Linux is my primary development environment.
